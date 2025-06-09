@@ -11,7 +11,6 @@
 
 
 | ☁️ **Cloud Service**<br> ![](https://skillicons.dev/icons?i=azure)  | 🗄️ **Database**<br> ![](https://skillicons.dev/icons?i=postgresql,mysql) |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 | 🔧 **Development Tools**<br> ![](https://skillicons.dev/icons?i=vscode,git,github) | 💻 **Languages & Frameworks**<br> ![](https://skillicons.dev/icons?i=python,c,cs,java,html,css) |
 
 
