@@ -30,7 +30,9 @@
 </tr>
 </table>
 
+
 ## 📋 ** License** 
+
 * MCP(DP-600:Microsoft Certified:Fabric Analytics Engineer Associate)
 * MCP(AZ-104:Microsoft Certified: Microsoft Azure Administrator)
 * MCP(MB-910:Microsoft Certified: Dynamics 365 Fundamentals (CRM))
