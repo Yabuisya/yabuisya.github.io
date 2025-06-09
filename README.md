@@ -6,7 +6,18 @@
 * 💼 **Focus:** Cooking curry.
 * ☕ **Powered by:** Sake and Coffee and Curry
 * 🎯 **Goal:** Cook a curry so delicious that it emits beams from its mouth
-  
+
+
+
+
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| ☁️ **Cloud Service** ![](https://skillicons.dev/icons?i=azure)                 | 🗄️ **Database** ![](https://skillicons.dev/icons?i=postgresql,mysql)                       |
+| 🔧 **Development Tools** ![](https://skillicons.dev/icons?i=vscode,git,github) | 💻 **Languages & Frameworks** ![](https://skillicons.dev/icons?i=python,c,cs,java,html,css) |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+
+
+
+
 ## 🛠️ **Tech Stack** 
 <table align="left"><tr>
 <td width="50%" align="center" valign="top">
@@ -31,12 +42,6 @@
 </table>
 
 
-
-
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| ☁️ **Cloud Service** ![](https://skillicons.dev/icons?i=azure)                 | 🗄️ **Database** ![](https://skillicons.dev/icons?i=postgresql,mysql)                       |
-| 🔧 **Development Tools** ![](https://skillicons.dev/icons?i=vscode,git,github) | 💻 **Languages & Frameworks** ![](https://skillicons.dev/icons?i=python,c,cs,java,html,css) |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
 
 
 
