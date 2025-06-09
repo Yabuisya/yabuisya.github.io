@@ -29,14 +29,17 @@
 </td>
 </tr>
 </table>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
-<p>
-</p>
+
+
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| ☁️ **Cloud Service** ![](https://skillicons.dev/icons?i=azure)                 | 🗄️ **Database** ![](https://skillicons.dev/icons?i=postgresql,mysql)                       |
+| 🔧 **Development Tools** ![](https://skillicons.dev/icons?i=vscode,git,github) | 💻 **Languages & Frameworks** ![](https://skillicons.dev/icons?i=python,c,cs,java,html,css) |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+
+
+
+
+
 
 ## 📋 ** License** 
 
