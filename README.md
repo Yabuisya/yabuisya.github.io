@@ -10,16 +10,20 @@
 ## 🛠️ **Tech Stack** 
 <table align="center"><tr>
 <td width="50%" align="center" valign="top">
-### ☁️ Cloud Service
+### ☁️ **Cloud Service**
 <img src="https://skillicons.dev/icons?i=azure" />
+  
 ### 🔧 Development Tools 
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+
 </td>
 <td width="50%" align="center" valign="top">
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  
 ### 💻 Languages & Frameworks 
 <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css" />
+
 </td></tr></table>
 
 ## 📋 ** License** 
