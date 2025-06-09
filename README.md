@@ -13,7 +13,8 @@
 ### ☁️ Cloud Service
 <img src="https://skillicons.dev/icons?i=azure" />
 ### 🔧 Development Tools 
-<img src="https://skillicons.dev/icons?i=vscode,git,github" /></td>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</td>
 <td width="50%" align="center" valign="top">
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
