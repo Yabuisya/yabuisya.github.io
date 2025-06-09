@@ -10,10 +10,12 @@
 ## 🛠️ **Tech Stack** 
 <table align="center"><tr>
   <td width="50%" align="center" valign="top">
-  * ☁️ Cloud Service <img src="https://skillicons.dev/icons?i=azure" />  
+  * ☁️ Cloud Service <img src="https://skillicons.dev/icons?i=azure" /></td>  
+  <td width="50%" align="center" valign="top">
   * 🔧 Development Tools <img src="https://skillicons.dev/icons?i=vscode,git,github" /></td>
   <td width="50%" align="center" valign="top">
-  ### 🗄️ Database <img src="https://skillicons.dev/icons?i=postgresql,mysql" />   
+  ### 🗄️ Database <img src="https://skillicons.dev/icons?i=postgresql,mysql" /></td>
+  <td width="50%" align="center" valign="top">
   ### 💻 Languages & Frameworks <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css" />
 </td></tr></table>
 
