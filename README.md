@@ -1,11 +1,17 @@
 # 🍛 Curry Engineer
 ## 👋 **Hi, I'm User!** 
 🪦 **IT Engineer:** I feel hopeless about SIers
+
 💾 **Programmer:** Writing source code is the best time of my life
+
 🌍 **Location:** Japan 🇯🇵
+
 💼 **Focus:** Cooking curry.
+
 ☕ **Powered by:** Sake and Coffee and Curry
+
 🎯 **Goal:** Cook a curry so delicious that it emits beams from its mouth
+
   
 ## 🛠️ **Tech Stack** 
 <table align="center"><tr>
