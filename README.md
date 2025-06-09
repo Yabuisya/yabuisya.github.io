@@ -13,7 +13,7 @@
 | ------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------: |
 | 🔧 **Development Tools**<br> ![](https://skillicons.dev/icons?i=vscode,git,github) | 💻 **Languages & Frameworks**<br> ![](https://skillicons.dev/icons?i=python,c,cs,java,html,css) |
 
-## 📋 ** License** 
+## 📋 **License** 
 
 * MCP(DP-600:Microsoft Certified:Fabric Analytics Engineer Associate)
 * MCP(AZ-104:Microsoft Certified: Microsoft Azure Administrator)
