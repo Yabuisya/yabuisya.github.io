@@ -19,10 +19,11 @@
 
 </td>
 <td width="50%" align="center" valign="top">
-### 🗄️ Database
+  
+### 🗄️ **Database**
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
   
-### 💻 Languages & Frameworks 
+### 💻 **Languages & Frameworks** 
 <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css" />
 
 </td></tr></table>
