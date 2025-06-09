@@ -10,10 +10,11 @@
 ## 🛠️ **Tech Stack** 
 <table align="center"><tr>
 <td width="50%" align="center" valign="top">
+
 ### ☁️ **Cloud Service**
 <img src="https://skillicons.dev/icons?i=azure" />
   
-### 🔧 Development Tools 
+### 🔧 **Development Tools**
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
