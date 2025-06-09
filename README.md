@@ -26,7 +26,9 @@
 ### 💻 **Languages & Frameworks** 
 <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css" />
 
-</td></tr></table>
+</td>
+</tr>
+</table>
 
 ## 📋 ** License** 
 * MCP(DP-600:Microsoft Certified:Fabric Analytics Engineer Associate)
