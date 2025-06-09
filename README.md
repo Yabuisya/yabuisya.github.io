@@ -8,7 +8,7 @@
 * 🎯 **Goal:** Cook a curry so delicious that it emits beams from its mouth
   
 ## 🛠️ **Tech Stack** 
-<table align="center"><tr>
+<table align="left"><tr>
 <td width="50%" align="center" valign="top">
 
 ### ☁️ **Cloud Service**
